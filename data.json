@@ -1,0 +1,22 @@
+{
+    "users": [
+      {
+        "ssid": 100,
+        "university": "MIT",
+        "degreename": "Computers",
+        "graduated": 1
+      },
+      {
+        "ssid": 101,
+        "university": "Stanford",
+        "degreename": "Computers",
+        "graduated": 1
+      },
+      {
+        "ssid": 102,
+        "university": "Stanford",
+        "degreename": "Computers",
+        "graduated": 0
+      }
+    ]
+  }

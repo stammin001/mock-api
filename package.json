@@ -1,0 +1,23 @@
+{
+  "name": "mock-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server data.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stammin001/mock-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stammin001/mock-api/issues"
+  },
+  "homepage": "https://github.com/stammin001/mock-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

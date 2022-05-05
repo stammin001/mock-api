@@ -7,6 +7,12 @@
       "graduated": 1
     },
     {
+      "id": 100,
+      "university": "UNIV2",
+      "degreename": "Math",
+      "graduated": 1
+    },
+    {
       "id": 101,
       "university": "Stanford",
       "degreename": "Computers",
@@ -16,7 +22,7 @@
       "id": 102,
       "university": "Stanford",
       "degreename": "Computers",
-      "graduated": 0
+      "graduated": 2
     }
   ]
 }

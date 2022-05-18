@@ -23,6 +23,12 @@
       "university": "Stanford",
       "degreename": "Computers",
       "graduated": 2
+    },
+    {
+      "id": 103,
+      "university": "Stanford",
+      "degreename": "Arts",
+      "graduated": 2
     }
   ]
 }
